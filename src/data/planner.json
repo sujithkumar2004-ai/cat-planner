@@ -1,0 +1,44 @@
+{
+  "Syllabus Map": [
+    {
+      "Section": "VARC",
+      "Subject": "Reading Comprehension",
+      "Topics Included": "Philosophy\nPsychology\nHistory\nArts and Museum\nSociety and Culture\nBiology\nScience and Technology\nInference, tone, main idea, detail, and vocabulary-in-context questions"
+    },
+    {
+      "Section": "VARC",
+      "Subject": "Verbal Ability",
+      "Topics Included": "Para Summary\nPara Jumbles\nPara Completion / Fill in the Blank\nOdd One Out / Out of Context\nDaily reading and option elimination practice"
+    },
+    {
+      "Section": "DILR",
+      "Subject": "Logical Reasoning",
+      "Topics Included": "Puzzles\nArrangements\nSelection\nGames and Tournaments\nConditional LR\nCoin Picking\nBinary Logic\nTruth and Lie\nCase based LR\n2D and 3D LR"
+    },
+    {
+      "Section": "DILR",
+      "Subject": "Data Interpretation",
+      "Topics Included": "Tables based DI\nCaselets\nQuant based DI\nGraphs\nCharts\nNetworks and Diagrams\nRoutes and Networks\nMathematical Puzzle\nVenn Diagram\nMaxima-Minima"
+    },
+    {
+      "Section": "QA",
+      "Subject": "Arithmetic",
+      "Topics Included": "Averages\nRatios and Proportions\nPercentages\nMixtures and Alligations\nProfit and Loss\nTime, Speed and Distance\nTime and Work\nSimple and Compound Interest"
+    },
+    {
+      "Section": "QA",
+      "Subject": "Algebra",
+      "Topics Included": "Linear Equations\nQuadratic Equations\nInequalities\nLogarithms\nSurds and Indices\nFunctions and Graphs\nPolynomials"
+    },
+    {
+      "Section": "QA",
+      "Subject": "Geometry",
+      "Topics Included": "Lines and Angles\nTriangles\nCircles\nPolygons\nQuadrilaterals\nCoordinate Geometry\nMensuration 2D and 3D"
+    },
+    {
+      "Section": "QA",
+      "Subject": "Number System and Modern Maths",
+      "Topics Included": "Properties of Numbers\nDivisibility\nFactors, HCF and LCM\nRemainders\nBase System Conversions\nPermutations and Combinations\nProbability\nSet Theory\nSeries and Progressions\nVenn Diagrams"
+    }
+  ]
+}
